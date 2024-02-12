@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Bank_Card
+comment0.text=\r\n\ Programming\ coursework\ first\ year\ (Second\ semester)\r\nIslington\ college\r\n\ @author\ 22066719\ Jitendra\ Bhujel(N6)\r\n\ @version\ (1.0)\r\n
+comment1.params=Card_Id\ Bank_Account\ Issuer_Bank\ Balance_Amount
+comment1.target=Bank_Card(int,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=int\ getCard_Id()
+comment3.params=
+comment3.target=java.lang.String\ getBank_Account()
+comment4.params=
+comment4.target=java.lang.String\ getIssuer_Bank()
+comment5.params=
+comment5.target=double\ getBalance_Amount()
+comment6.params=newName
+comment6.target=void\ setClient_Name(java.lang.String)
+comment7.params=newName
+comment7.target=void\ setBalance_Amount(java.lang.Double)
+comment8.params=
+comment8.target=void\ Display()
+numComments=9
